@@ -4,13 +4,7 @@ Este repositório contém implementações didáticas do Problema do Caixeiro Vi
 
 ## Conteúdo do Repositório
 
-1. **Notebooks Explicativos:** Existem vários Jupyter Notebooks que explicam diferentes heurísticas para resolver o TSP. Cada notebook inclui uma explicação detalhada, código Python e exemplos de aplicação. Os notebooks disponíveis são:
-
-   - [Notebook 1: Algoritmo de Força Bruta](notebooks/Brute_Force_TSP.ipynb)
-   - [Notebook 2: Algoritmo de Vizinho Mais Próximo](notebooks/Nearest_Neighbor_TSP.ipynb)
-   - [Notebook 3: Algoritmo de Inserção Mais Próxima](notebooks/Nearest_Insertion_TSP.ipynb)
-   - [Notebook 4: Algoritmo Genético](notebooks/Genetic_Algorithm_TSP.ipynb)
-   - [Notebook 5: Recozimento Simulado](notebooks/Simulated_Annealing_TSP.ipynb)
+1. **Notebooks Explicativos:** Existem vários Jupyter Notebooks que explicam diferentes heurísticas para resolver o TSP. Cada notebook inclui uma explicação detalhada, código Python e exemplos de aplicação.
 
 2. **Bases de Dados:** O diretório `datasets` contém conjuntos de dados que podem ser usados como exemplos para resolver o TSP. Os arquivos estão no formato apropriado para leitura nas implementações.
 
