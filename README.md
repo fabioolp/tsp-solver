@@ -6,7 +6,7 @@ Este repositório contém implementações didáticas do Problema do Caixeiro Vi
 
 1. **Notebooks Explicativos:** Existem vários Jupyter Notebooks que explicam diferentes heurísticas para resolver o TSP. Cada notebook inclui uma explicação detalhada, código Python e exemplos de aplicação.
 
-2. **Bases de Dados:** O diretório `datasets` contém conjuntos de dados que podem ser usados como exemplos para resolver o TSP. Os arquivos estão no formato apropriado para leitura nas implementações.
+2. **Bases de Dados:** O diretório `data` contém conjuntos de dados que podem ser usados como exemplos para resolver o TSP. Os arquivos estão no formato apropriado para leitura nas implementações.
 
 3. **Código Python Interativo:** O arquivo `tsp_solver.py` contém uma implementação interativa do TSP em Python. O usuário pode escolher entre várias heurísticas para resolver o problema e fornecer a base de dados de entrada.
 
