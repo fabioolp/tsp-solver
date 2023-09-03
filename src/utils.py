@@ -49,6 +49,7 @@ def calcula_fo(n, s, d):
 
 
 def imprime_rota(s, n):
+    print('\nSolução:')
     for i in range(n+1):
         print(f'{s[i]}', end='')
 
